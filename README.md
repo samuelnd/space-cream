@@ -6,5 +6,5 @@ Aplicado conceitos de display flex, grid e aplicação de responsividade ao proj
 
 Tecnologias utilizadas
 
-- HTML
+- HTML 
 - CSS 
